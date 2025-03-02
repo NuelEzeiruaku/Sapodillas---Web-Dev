@@ -24,7 +24,7 @@ Visit the live website: [https://sapodillas.com](https://sapodillas.com)
 
 ## License
 
-This project is licensed under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**. You can copy, modify, distribute, and perform the work, even for commercial purposes, without asking permission.
+This project is licensed under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.
 
 For more details, visit: [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
 
