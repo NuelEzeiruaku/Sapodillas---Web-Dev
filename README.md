@@ -16,7 +16,7 @@ Sapodillas is a professionally developed website created upon recruitment for th
 
 ## Preview
 
-![Sapodillas Screenshot]([https://github.com/yourusername/sapodillas/blob/main/preview.png?raw=true](https://github.com/NuelEzeiruaku/Sapodillas-Web-Dev/blob/main/sapopreview.png?raw=true))
+![Sapodillas Screenshot]([[https://github.com/yourusername/sapodillas/blob/main/preview.png?raw=true](https://github.com/NuelEzeiruaku/Sapodillas-Web-Dev/blob/main/sapopreview.png?raw=true)](https://github.com/NuelEzeiruaku/Sapodillas-Web-Dev/blob/main/sapopreview.png?raw=true))
 
 ## Live Site
 
